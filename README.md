@@ -1,4 +1,13 @@
-# Hello, I'm Aman! 👋
+<h1 align="center">
+  👋 I'm Aman kr 👨‍💻
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=007BFF&center=true&vCenter=true&lines=Full-Stack+Developer;Coding+Pragmatists;Tech+Explorer;Learning+New+Things!" alt="Typing SVG">
+</p>
+
+---
+<img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passionate about **technology** and **coding**. I strive to create clean, efficient, and user-friendly web applications.
 
@@ -42,8 +51,21 @@ I am currently learning and building projects with:
   - Responsive Web Design
   - Building interactive projects
 
-## 📈 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kr-1111&layout=compact" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Aman-kr-1111&theme=dark&hide_border=true" alt="GitHub Streak">
+</div>
+
+---
 
 ## 🌐 Let's Connect
 - 🌍 [LinkedIn](https://linkedin.com/in/your-profile)
