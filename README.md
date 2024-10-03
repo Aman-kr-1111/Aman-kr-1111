@@ -49,16 +49,12 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
+   ![Eclipse](https://img.shields.io/badge/Eclipse%20Studio%20Code-0078D4.svg?style=flat&logo=Eclipse&logoColor=white)
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
   
 
 ---
-
-## 🛠️ Full Stack Skills I'm Developing
-- **Frontend:** HTML5, CSS3, JavaScript, React (learning)
-- **Backend:** Core Java, Java Spring Framework, Oracle Database, APIs, REST
-- **Tools & DevOps:** Git, GitHub, Docker (learning), CI/CD
 
 ## 📚 Current Learning Goals
 I am currently learning and building projects with:
