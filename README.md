@@ -27,7 +27,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 I am currently learning and building projects with:
 - **Java Spring Boot** for building RESTful web services.
 - **React.js** for frontend development.
-- **Docker** for containerization and deployment.
+- **AWS** for containerization and deployment.
 
 ## 💡 Skills & Knowledge
 - 🖥️ **Frontend:** HTML5, CSS3, JavaScript, Responsive Design
