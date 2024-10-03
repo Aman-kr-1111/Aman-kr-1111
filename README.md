@@ -20,12 +20,40 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - **[Weather Information](https://github.com/your-username/weather-app)** 🌤️ - A web app that fetches real-time weather data from an API and displays it using dynamic UI.
 
 ## 🔧 Technologies & Tools
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Core Java](https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+- **Frontend Development:**  
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+  ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+- **Programming Languages:**  
+  ![Core Java](https://img.shields.io/badge/Core_Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) 
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+- **Backend Development:**  
+  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=node.js&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59.svg?style=flat&logo=express&logoColor=white)
+  
+- **Database Management:**  
+  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
+
+- **Version Control:**  
+  ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white)
+
+- **Other Tools:**  
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
+  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
+ <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+  
+
+---
 
 ## 🛠️ Full Stack Skills I'm Developing
 - **Frontend:** HTML5, CSS3, JavaScript, React (learning)
