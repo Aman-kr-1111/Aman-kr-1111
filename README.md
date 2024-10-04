@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 I'm <span style="background: linear-gradient(to right, #00ff00, #00d9ff, #007bff); -webkit-background-clip: text; color: transparent;">Aman kr</span> 👨‍💻
+  👋 I'm <span style="color: #0f0;">Aman kr</span> 👨‍💻
 </h1>
 
 <p align="center">
