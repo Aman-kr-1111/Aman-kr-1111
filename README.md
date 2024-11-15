@@ -66,11 +66,10 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aman-kr-1111&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-kr-1111&" alt="aman-kr-1111" /></p>
 
 ---
+
 
 ## 🌐 Let's Connect
 - 🌍 [LinkedIn](https://www.linkedin.com/in/aman-kumar-64b22b270/)
