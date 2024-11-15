@@ -66,7 +66,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman-kr-1111&" alt="aman-kr-1111" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&" alt="aman-kr-1111" /></p>
 
 ---
 
