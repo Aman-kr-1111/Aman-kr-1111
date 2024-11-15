@@ -67,7 +67,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aman-kr-1111&theme=dark&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com/?user=Aman-kr-1111&theme=dark&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
