@@ -94,6 +94,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0000FF&center=true&vCenter=true&lines=Thanks+for+stopping+by!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=0000FF&center=true&vCenter=true&lines=Thanks for stopping by!" alt="Typing SVG">
 </p>
 
