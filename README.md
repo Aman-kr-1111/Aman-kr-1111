@@ -67,8 +67,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=dark&hide_border=false"/>
-</div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=dark&hide_border=false"/></div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -79,7 +78,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Aman-kr-1111&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
 </div>
-
 
 ## 🌐 Let's Connect
 - 🌍 [LinkedIn](https://www.linkedin.com/in/aman-kumar-64b22b270/)
