@@ -9,7 +9,6 @@
 ---
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/fornonecs/advanced-javascript/main/event-loop/gifs/CallStack.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-kr-1111&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kr-1111" /> </p>
 
 ### ✨ About Me
