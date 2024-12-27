@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 I'm <span style="color: #F00;">A</span><span style="color: #2E3944;">man kr </span> 👨‍💻
+  👋 I'm <span style="color:#F00;">A</span><span style="color:#2E3944;">man kr </span> 👨‍💻
 </h1>
 
 <p align="center">
@@ -9,7 +9,7 @@
 ---
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/fornonecs/advanced-javascript/main/event-loop/gifs/CallStack.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-kr-1111&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kr-1111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-kr-1111&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kr-1111"/></p>
 
 ### ✨ About Me
 
