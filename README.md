@@ -1,5 +1,5 @@
 <h1 align="center">
-  👋 I'm <span style="color:#F00;">A</span><span style="color:#2E3944;">man kr </span>👨‍💻
+  👋 I'm <span style="color:#F00;">A</span><span style="color:#2E3944;">man kr </span> 👨‍💻
 </h1>
 
 <p align="center">
