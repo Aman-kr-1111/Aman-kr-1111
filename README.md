@@ -19,7 +19,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 🌱 I’m always learning new things and exploring the latest technologies.
 - ♟ Fun Fact: I love playing chess in my free time—it sharpens my problem-solving skills!
 ---
-
 ## 🚀 My Projects
 - **[Tic Tac Toe](https://github.com/your-username/tic-tac-toe)** 🎮 - A classic Tic Tac Toe game built using JavaScript, HTML, and CSS.
 - **[Perfect Guess](https://github.com/your-username/perfect-guess)** 🎯 - A guessing game where users predict a number, developed using JavaScript.
