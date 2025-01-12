@@ -39,7 +39,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 </p>
   
 - **Database Management:**  
-  ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+  ![Oracle Database](https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 - **Version Control:**  
   ![Git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=git&logoColor=white)
