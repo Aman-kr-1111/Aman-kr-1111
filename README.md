@@ -6,6 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF5733,FFC300,DAF7A6,28B463,5DADE2,AF7AC5&center=true&vCenter=true&lines=Java+Developer;Code+Architect;Tech+Visionary;Breaking+Boundaries!" alt="Typing SVG">
 </p>
 ---
+
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/fornonecs/advanced-javascript/main/event-loop/gifs/CallStack.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-kr-1111&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kr-1111"/></p>
 
