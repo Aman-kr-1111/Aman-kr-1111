@@ -1,6 +1,7 @@
 <h1 align="center">
   👋 I'm <span style="color:#F00;">A</span><span style="color:#2E3944;">man kr </span> 👨‍💻
 </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF5733,FFC300,DAF7A6,28B463,5DADE2,AF7AC5&center=true&vCenter=true&lines=Java+Developer;Code+Architect;Tech+Visionary;Breaking+Boundaries!" alt="Typing SVG">
 </p>
