@@ -46,7 +46,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - **Other Tools:**  
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078D4.svg?style=flat&logo=visual-studio-code&logoColor=white)
    ![Eclipse](https://img.shields.io/badge/Eclipse%20Studio%20Code-0078D4.svg?style=flat&logo=Eclipse&logoColor=white)  
-
 ---
 ## 📚 Current Learning Goals
 
