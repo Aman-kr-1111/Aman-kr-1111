@@ -84,6 +84,13 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 🏆 **Award 1** - Received for excellence in XYZ.
 - 🥇 **Award 2** - Recognized for ABC skills.
 ---
+---
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&lines=Thanks+for+visiting!" alt="Typing SVG">
 </p>
+
+---
+---
+
+<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aman kr" /></a>
