@@ -1,10 +1,13 @@
 <h1 align="center">
   👋 I'm <span style="color:#F00;">A</span><span style="color:#2E3944;">man kr </span> 👨‍💻
 </h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF5733,FFC300,DAF7A6,28B463,5DADE2,AF7AC5&center=true&vCenter=true&lines=Java+Developer;Code+Architect;Tech+Visionary;Breaking+Boundaries!" alt="Typing SVG">
 </p>
+
 ---
+
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/fornonecs/advanced-javascript/main/event-loop/gifs/CallStack.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Aman-kr-1111&label=Profile%20views&color=0e75b6&style=flat" alt="aman-kr-1111"/></p>
 
@@ -15,7 +18,9 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 💼 I am currently focused on becoming a **Java Full Stack Developer**. I am working on mastering both frontend and backend technologies, with Java at the core.
 - 🌱 I’m always learning new things and exploring the latest technologies.
 - ♟ Fun Fact: I love playing chess in my free time—it sharpens my problem-solving skills!
+  
 ---
+
 ## 🚀 My Projects
 - **[Tic Tac Toe](https://github.com/your-username/tic-tac-toe)** 🎮 - A classic Tic Tac Toe game built using JavaScript, HTML, and CSS.
 - **[Perfect Guess](https://github.com/your-username/perfect-guess)** 🎯 - A guessing game where users predict a number, developed using JavaScript.
