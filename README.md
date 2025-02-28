@@ -57,16 +57,19 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kr-1111&layout=compact" alt="Top Languages">
 </div>
 
+dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=radical" alt="Aman_kr GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=highcontrast" alt="Aman_kr GitHub Stats">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=dark&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=highcontrast&hide_border=false"/>
 </div>
 
 ## 🏆 GitHub Trophies
