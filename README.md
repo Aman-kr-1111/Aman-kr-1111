@@ -62,8 +62,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kr-1111&layout=compact" alt="Top Languages">
 </div>
 
-dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aman-kr-1111&show_icons=true&theme=highcontrast" alt="Aman_kr GitHub Stats">
 </div>
