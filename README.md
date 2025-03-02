@@ -1,9 +1,6 @@
-# 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" /> &nbsp; Welcome  &nbsp;<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png"  width="50px" />
 </p>
-
-
 
 <h1 align="center">
   👋 I'm <span style="color:#F00;">A</span><span style="color:#2E3944;">man kr </span> 👨‍💻
@@ -13,6 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF5733,FFC300,DAF7A6,28B463,5DADE2,AF7AC5&center=true&vCenter=true&lines=Java+Developer;Code+Architect;Tech+Visionary;Breaking+Boundaries!" alt="Typing SVG">
 </p>
 
+---
 ---
 
 <img align="right" alt="coding" width="500" src="https://raw.githubusercontent.com/fornonecs/advanced-javascript/main/event-loop/gifs/CallStack.gif"/>
@@ -25,7 +23,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 💼 I am currently focused on becoming a **Java Full Stack Developer**. I am working on mastering both frontend and backend technologies, with Java at the core.
 - 🌱 I’m always learning new things and exploring the latest technologies.
 - ♟ Fun Fact: I love playing chess in my free time—it sharpens my problem-solving skills!
-  
+
 ---
 
 ## 🚀 My Projects
@@ -45,7 +43,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
   ![Tailwind](https://img.shields.io/badge/Tailwind-%23563D7C.svg?style=flat&logo=Tailwind&logoColor=white)
   ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black) 
 </p>
-  
+
 - **Database Management:**  
   ![Oracle Database](https://img.shields.io/badge/Oracle-DB-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -77,7 +75,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=highcontrast&hide_border=false"/>
 </div>
 
-
 ## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Aman-kr-1111&theme=radical&no-frame=false&no-bg=true&margin-w=4"/>
@@ -92,6 +89,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aman-kr-1111&theme=react-dark&hide_border=true" alt="Contribution Graph">
 </p>
+
 ## 🌐 Let's Connect
 - 🌍 [LinkedIn](https://www.linkedin.com/in/aman-kumar-64b22b270/)
 - 🌐 [Portfolio](https://aman-first-portfolio.netlify.app/)
