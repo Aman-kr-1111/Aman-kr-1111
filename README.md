@@ -82,7 +82,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 
 ### 🔝 Top Contributed Repo
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Aman-kr-1111&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Aman-kr-1111&limit=10&theme=dark&combine_all_monthly_contributions=true"/>
 </div>
 
 ### 📊 Contribution Graph
