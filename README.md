@@ -72,7 +72,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=highcontrast&hide_border=false"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-kr-1111&theme=black-ice&hide_border=false"alt="GitHub Streak">
 </div>
 
 ## 🏆 GitHub Trophies
