@@ -64,7 +64,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kr-1111&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-kr-1111&layout=compact&theme=vision-friendly-dark" alt="Top Languages">
 </div>
 
 <div align="center">
