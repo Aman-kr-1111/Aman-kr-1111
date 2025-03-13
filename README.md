@@ -101,6 +101,7 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 🥇 **Award 2** - Recognized for ABC skills.
 
 ---
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=FF0000&center=true&vCenter=true&lines=Thanks+for+visiting!" alt="Typing SVG">
