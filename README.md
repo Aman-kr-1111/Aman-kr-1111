@@ -100,6 +100,11 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 🏆 **Award 1** - Received for excellence in XYZ.
 - 🥇 **Award 2** - Recognized for ABC skills.
 
+### 🏅 Achievements  
+- 🏆 **Award 1** - Received for excellence in XYZ.  
+- 🥇 **Award 2** - Recognized for ABC skills.  
+- 🔥 **100+ Days Streak** - Successfully completed a **100+ days coding streak**, showcasing consistency and dedication. 🚀
+
 ---
 ---
 
