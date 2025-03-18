@@ -96,9 +96,6 @@ I am a **Frontend Developer** and aspiring **Java Full Stack Developer** passion
 - 🏆 [CodeChef](https://www.codechef.com/users/aman_kr_1111)
 - 🎯 [HackerRank](https://www.hackerrank.com/profile/Aman_kr_1111)
 
-### 🏅 Achievements
-- 🏆 **Award 1** - Received for excellence in XYZ.
-- 🥇 **Award 2** - Recognized for ABC skills.
 
 ### 🏅 Achievements  
 - 🏆 **Award 1** - Received for excellence in XYZ.  
